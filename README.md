@@ -4,7 +4,7 @@ A deep learning project for multi-class emotion classification using Recurrent N
 
 ## Project Overview
 
-This project implements a sentiment analysis model using PyTorch and the `dair-ai/emotion` dataset. The model uses a simple RNN architecture with embeddings to classify text into emotional categories, achieving **84.60% validation accuracy** after just 5 epochs.
+This project implements a sentiment analysis model using PyTorch and the `dair-ai/emotion` dataset. The model uses a simple RNN architecture with embeddings to classify text into emotional categories, achieving **92.65% validation accuracy** after just 5 epochs.
 
 ## Key Features
 
